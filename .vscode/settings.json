@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "xiosbase": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "xlocale": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ios": "cpp"
+    }
+}
